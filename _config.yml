@@ -40,12 +40,14 @@ linkedin_username: katarzyna-szmydki-aa0b79b5
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  Hi, my name's Kasia. I'm a data analyst/BI developer with 5+ years experience. Using data to support business and draw more meaning into life is what I'm passionate about.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  I am most skilled in: 
+  - Extracting and cleaning data (<mark>SQL</mark>, <mark>Python</mark>),
+  - Visualisations, reporting (<mark>Power BI</mark>),
 
 content:
-  - title: Projects # Title for the section
+  - title: Reporting sandbox # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
