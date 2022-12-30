@@ -59,6 +59,7 @@ content:
             icon: fab fa-github
             url: https://app.powerbi.com/view?r=eyJrIjoiMjkyNDQ5MjgtNzU1OS00NDMyLWIyY2ItMjA4NTllOTY0NmNjIiwidCI6IjI5NDYwNjgyLTUwNmQtNDcxNy05NmE3LTUxNDg1OGRjMjIyZCIsImMiOjh9&pageName=ReportSection
 
+          https://app.powerbi.com/view?r=eyJrIjoiMjkyNDQ5MjgtNzU1OS00NDMyLWIyY2ItMjA4NTllOTY0NmNjIiwidCI6IjI5NDYwNjgyLTUwNmQtNDcxNy05NmE3LTUxNDg1OGRjMjIyZCIsImMiOjh9&pageName=ReportSection
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
