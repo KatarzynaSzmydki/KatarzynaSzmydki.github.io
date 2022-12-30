@@ -1,2 +1,0 @@
-# KatarzynaSzmydki.github.io
-Portfolio
