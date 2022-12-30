@@ -20,7 +20,7 @@ github_username:  KatarzynaSzmydki
 # facebook_username: jekyll
 # flickr_username: jekyll
 #instagram_username: jameswgrant
-linkedin_username: KatarzynaSzmydki
+linkedin_username: katarzyna-szmydki-aa0b79b5
 
 
 # Additional icon links
@@ -53,7 +53,7 @@ content:
         link: github.com/sproogen
         # link_text: Project Website
         additional_links:
-          - title:  sproogen/modern-resume-theme
+          - title:  PBI Report
             icon: fab fa-github
             url: https://app.powerbi.com/view?r=eyJrIjoiMjkyNDQ5MjgtNzU1OS00NDMyLWIyY2ItMjA4NTllOTY0NmNjIiwidCI6IjI5NDYwNjgyLTUwNmQtNDcxNy05NmE3LTUxNDg1OGRjMjIyZCIsImMiOjh9&pageName=ReportSection
 
