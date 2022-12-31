@@ -70,18 +70,27 @@ content:
           Service management, supporting and maintaining Business Intelligence tools, business analysis, cloud technologies.       
 
 
-  - title: Power BI reports # Title for the section
+  - title: Demo Power BI reports # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: top-middle
+      - layout: left
         title: Sales dashboard
         link: https://app.powerbi.com/view?r=eyJrIjoiMjkyNDQ5MjgtNzU1OS00NDMyLWIyY2ItMjA4NTllOTY0NmNjIiwidCI6IjI5NDYwNjgyLTUwNmQtNDcxNy05NmE3LTUxNDg1OGRjMjIyZCIsImMiOjh9&pageName=ReportSection
         link_text: Go to the app
 
-        additional_links:
-          - title:  PBI Report
-            icon: fab fa-github
-            url: https://app.powerbi.com/view?r=eyJrIjoiMjkyNDQ5MjgtNzU1OS00NDMyLWIyY2ItMjA4NTllOTY0NmNjIiwidCI6IjI5NDYwNjgyLTUwNmQtNDcxNy05NmE3LTUxNDg1OGRjMjIyZCIsImMiOjh9&pageName=ReportSection
+  - title: Kaggle projects # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+#      - layout: left
+#        title: Sales dashboard
+#        link: https://app.powerbi.com/view?r=eyJrIjoiMjkyNDQ5MjgtNzU1OS00NDMyLWIyY2ItMjA4NTllOTY0NmNjIiwidCI6IjI5NDYwNjgyLTUwNmQtNDcxNy05NmE3LTUxNDg1OGRjMjIyZCIsImMiOjh9&pageName=ReportSection
+#        link_text: Go to the app
+
+
+#        additional_links:
+#          - title:  PBI Report
+#            icon: fab fa-github
+#            url: https://app.powerbi.com/view?r=eyJrIjoiMjkyNDQ5MjgtNzU1OS00NDMyLWIyY2ItMjA4NTllOTY0NmNjIiwidCI6IjI5NDYwNjgyLTUwNmQtNDcxNy05NmE3LTUxNDg1OGRjMjIyZCIsImMiOjh9&pageName=ReportSection
 
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
@@ -89,6 +98,9 @@ content:
 #        quote: >
 #          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
 #        description: | # this will include new lines to allow paragraphs
+      description: | # this will include new lines to allow paragraphs
+       |
+        |
 
   - title: Next in my bucket list
     layout: text
@@ -96,7 +108,7 @@ content:
       In the coming weeks/months I plan to...
 
       Look at this cool image  
-      ![Trees](/KatarzynaSzmydki/KatarzynaSzmydki.github.io/images/landscape-trees.jpg "Trees")
+      ![Trees](KatarzynaSzmydki/KatarzynaSzmydki.github.io/images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: true
