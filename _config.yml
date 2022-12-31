@@ -40,34 +40,14 @@ linkedin_username: katarzyna-szmydki-aa0b79b5
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Kasia. I'm a data analyst/BI developer with 5+ years experience. Using data to support business and draw more meaning into life is what I'm passionate about.
+  Hi, my name's Kasia. I'm a data analyst/BI developer with 5+ years experience. Using data to support business is what I'm passionate about.
 
-  I am most skilled in: 
+  I'm most skilled in: 
   - Extracting and cleaning data (<mark>SQL</mark>, <mark>Python</mark>),
   - Visualisations, reporting (<mark>Power BI</mark>),
+  - Consolidating and explaining complex issues to business in easly digestable form. 
 
 content:
-  - title: Power BI reports # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: top-middle
-        title: Sales dashboard
-        link: https://app.powerbi.com/view?r=eyJrIjoiMjkyNDQ5MjgtNzU1OS00NDMyLWIyY2ItMjA4NTllOTY0NmNjIiwidCI6IjI5NDYwNjgyLTUwNmQtNDcxNy05NmE3LTUxNDg1OGRjMjIyZCIsImMiOjh9&pageName=ReportSection
-        link_text: See the report
-
-        additional_links:
-          - title:  PBI Report
-            icon: fab fa-github
-            url: https://app.powerbi.com/view?r=eyJrIjoiMjkyNDQ5MjgtNzU1OS00NDMyLWIyY2ItMjA4NTllOTY0NmNjIiwidCI6IjI5NDYwNjgyLTUwNmQtNDcxNy05NmE3LTUxNDg1OGRjMjIyZCIsImMiOjh9&pageName=ReportSection
-
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-        description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
-
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -80,7 +60,7 @@ content:
         quote: >
           Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+          Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -96,14 +76,32 @@ content:
 
           I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
 
-  - title: A Little More About Me
+  - title: Power BI reports # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top-middle
+        title: Sales dashboard
+        link: https://app.powerbi.com/view?r=eyJrIjoiMjkyNDQ5MjgtNzU1OS00NDMyLWIyY2ItMjA4NTllOTY0NmNjIiwidCI6IjI5NDYwNjgyLTUwNmQtNDcxNy05NmE3LTUxNDg1OGRjMjIyZCIsImMiOjh9&pageName=ReportSection
+        link_text: Go to the app
+
+        additional_links:
+          - title:  PBI Report
+            icon: fab fa-github
+            url: https://app.powerbi.com/view?r=eyJrIjoiMjkyNDQ5MjgtNzU1OS00NDMyLWIyY2ItMjA4NTllOTY0NmNjIiwidCI6IjI5NDYwNjgyLTUwNmQtNDcxNy05NmE3LTUxNDg1OGRjMjIyZCIsImMiOjh9&pageName=ReportSection
+
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+#        quote: >
+#          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+        description: | # this will include new lines to allow paragraphs
+          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+
+
+  - title: Next in my bucket list
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+      In the coming weeks/months
 
       Look at this cool image  
       ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
