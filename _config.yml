@@ -75,6 +75,8 @@ content:
     content:
       - layout: left
         title: Sales dashboard
+        description: |
+          Based on Kaggle dataset. Hosted in PBI Service.
         link: https://app.powerbi.com/view?r=eyJrIjoiMjkyNDQ5MjgtNzU1OS00NDMyLWIyY2ItMjA4NTllOTY0NmNjIiwidCI6IjI5NDYwNjgyLTUwNmQtNDcxNy05NmE3LTUxNDg1OGRjMjIyZCIsImMiOjh9&pageName=ReportSection
         link_text: Go to the app
 
