@@ -77,7 +77,7 @@ content:
           Daily reporting including ETL process tasks (Power Query, SQL), analyses and visualization (Power BI, Tableau). Advanced ad hoc analyses - forecasts and exploratory analyses (R).     
 
 
-  - title: Demo Power BI reports # Title for the section
+  - title: Latest Power BI showcases # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
@@ -112,10 +112,10 @@ content:
 #       |
 #        |
 
-  - title: Next on my bucket list
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      In the coming weeks/months I plan to...
+#  - title: Next on my bucket list
+#    layout: text
+#    content: | # this will include new lines to allow paragraphs
+#      In the coming weeks/months I plan to...
 
 
 # Footer
