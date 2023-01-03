@@ -81,11 +81,11 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Sales dashboard
+        title: Airbnb short-term rental housing report
         description: |
-          Based on Kaggle dataset. Hosted in PBI Service.
-        link: https://app.powerbi.com/view?r=eyJrIjoiMjkyNDQ5MjgtNzU1OS00NDMyLWIyY2ItMjA4NTllOTY0NmNjIiwidCI6IjI5NDYwNjgyLTUwNmQtNDcxNy05NmE3LTUxNDg1OGRjMjIyZCIsImMiOjh9&pageName=ReportSection
-        link_text: Go to the app
+          Based on publicly available Beijing Airbnb dataset published on April 17, 2019. Report presents basic statistics and findings from used dataset (PBI).
+        link: https://app.powerbi.com/view?r=eyJrIjoiOWFiODc5NDYtMDAxMS00OGU5LWJjZmYtOTZiYTlkMzA5ZTQyIiwidCI6IjI5NDYwNjgyLTUwNmQtNDcxNy05NmE3LTUxNDg1OGRjMjIyZCIsImMiOjh9
+        link_text: Go to the report
 
 
 #  - title: Kaggle projects # Title for the section
