@@ -81,7 +81,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Airbnb short-term rental housing report
+        title: Product sales report
         description: |
           Report analysing sales performance for an alcohol company. Includes performance metrics tracked over time and across categories and brands (dummy data).
         link: https://app.powerbi.com/view?r=eyJrIjoiMmFkYzdjODQtYmY1Ny00MjQzLThiM2ItMWNlODE5YWVjNzM0IiwidCI6IjI5NDYwNjgyLTUwNmQtNDcxNy05NmE3LTUxNDg1OGRjMjIyZCIsImMiOjh9
