@@ -81,6 +81,13 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
+        title: Store performance report
+        description: |
+          Report analysing store sales performance across different countries/cities and store formats (dummy data).
+        link: https://app.powerbi.com/view?r=eyJrIjoiNzMwOTBkMDctNTA5ZC00OTAwLWIyNTQtZGIyZTNmMzdhNTc4IiwidCI6IjI5NDYwNjgyLTUwNmQtNDcxNy05NmE3LTUxNDg1OGRjMjIyZCIsImMiOjh9
+        link_text: Go to the report
+
+      - layout: left
         title: Product sales report
         description: |
           Report analysing sales performance for an alcohol company. Includes performance metrics tracked over time and across categories and brands (dummy data).
