@@ -93,7 +93,7 @@ content:
           Report analysing sales performance for an alcohol company. Includes performance metrics tracked over time and across categories and brands (dummy data).
         link: https://app.powerbi.com/view?r=eyJrIjoiMmFkYzdjODQtYmY1Ny00MjQzLThiM2ItMWNlODE5YWVjNzM0IiwidCI6IjI5NDYwNjgyLTUwNmQtNDcxNy05NmE3LTUxNDg1OGRjMjIyZCIsImMiOjh9
         link_text: Go to the report
-
+#
 #      - layout: left
 #        title: Airbnb short-term rental housing report
 #        description: |
