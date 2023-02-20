@@ -94,12 +94,12 @@ content:
         link: https://app.powerbi.com/view?r=eyJrIjoiMmFkYzdjODQtYmY1Ny00MjQzLThiM2ItMWNlODE5YWVjNzM0IiwidCI6IjI5NDYwNjgyLTUwNmQtNDcxNy05NmE3LTUxNDg1OGRjMjIyZCIsImMiOjh9
         link_text: Go to the report
 
-      - layout: left
-        title: Airbnb short-term rental housing report
-        description: |
-          Based on publicly available Beijing Airbnb dataset published on April 17, 2019. Report presents basic statistics and findings from used dataset (PBI).
-        link: https://app.powerbi.com/view?r=eyJrIjoiOWFiODc5NDYtMDAxMS00OGU5LWJjZmYtOTZiYTlkMzA5ZTQyIiwidCI6IjI5NDYwNjgyLTUwNmQtNDcxNy05NmE3LTUxNDg1OGRjMjIyZCIsImMiOjh9
-        link_text: Go to the report
+#      - layout: left
+#        title: Airbnb short-term rental housing report
+#        description: |
+#          Based on publicly available Beijing Airbnb dataset published on April 17, 2019. Report presents basic statistics and findings from used dataset (PBI).
+#        link: https://app.powerbi.com/view?r=eyJrIjoiOWFiODc5NDYtMDAxMS00OGU5LWJjZmYtOTZiYTlkMzA5ZTQyIiwidCI6IjI5NDYwNjgyLTUwNmQtNDcxNy05NmE3LTUxNDg1OGRjMjIyZCIsImMiOjh9
+#        link_text: Go to the report
 
 
 #  - title: Kaggle projects # Title for the section
