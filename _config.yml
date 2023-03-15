@@ -40,7 +40,7 @@ linkedin_username: katarzyna-szmydki-aa0b79b5
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Kasia. I'm a BI developer|Data analyst with 6+ years experience. Using data to support business is what I'm passionate about.
+  Hi, my name's Kasia. I'm a BI developer/Data analyst with 6+ years experience. Using data to support business is what I'm passionate about.
 
   I'm most skilled in: 
   - Extracting and cleaning data (<mark>SQL</mark>, <mark>Python</mark>, <mark>PySpark</mark>),
