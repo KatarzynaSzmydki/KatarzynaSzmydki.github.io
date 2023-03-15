@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Katarzyna Szmydki
-title: Data Analyst | BI Developer
+title: BI Developer | Data Analyst
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -40,10 +40,10 @@ linkedin_username: katarzyna-szmydki-aa0b79b5
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Kasia. I'm a data analyst/BI developer with 5+ years experience. Using data to support business is what I'm passionate about.
+  Hi, my name's Kasia. I'm a BI developer|Data analyst with 6+ years experience. Using data to support business is what I'm passionate about.
 
   I'm most skilled in: 
-  - Extracting and cleaning data (<mark>SQL</mark>, <mark>Python</mark>),
+  - Extracting and cleaning data (<mark>SQL</mark>, <mark>Python</mark>, <mark>PySpark</mark>),
   - Visualisations, reporting (<mark>Power BI</mark>),
   - Consolidating and explaining complex issues to business in easly digestable form. 
 
@@ -51,14 +51,11 @@ content:
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
+
       - layout: left
         title: StepStone Services
-#        link: boringcompany.com
-        # link_text: boringcompany.com
         sub_title: Data Analyst
         caption: July 2022 - Present
-#        quote: >
-#          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
           Creating reports (*Power BI*), conducting exploratory and explanatory analyses (*SQL/Python/PySpark*). Extracting and transforming data from diverse sources (*Redshift DW/S3/Apache Hive/API*). Daily cooperation with developers, PO, business.
 
