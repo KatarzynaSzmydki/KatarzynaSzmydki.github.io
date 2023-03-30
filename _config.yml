@@ -43,9 +43,9 @@ about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Kasia. I'm a BI developer/Data analyst with 6+ years experience. Using data to support business is what I'm passionate about.
 
   I'm most skilled in: 
-  - Extracting and cleaning data (<mark>SQL</mark>, <mark>Python</mark>, <mark>PySpark</mark>),
+  - Extracting, cleaning and preparing data (<mark>SQL</mark>, <mark>Python</mark>, <mark>PySpark</mark>),
   - Visualisations, reporting (<mark>Power BI</mark>),
-  - Consolidating and explaining complex issues to business in easly digestable form. 
+  - Consolidating and explaining complex issues to business in easily digestable form. 
 
 content:
   - title: Experience # Title for the section
@@ -72,6 +72,10 @@ content:
         caption: Mar 2017 - June 2021
         description: | # this will include new lines to allow paragraphs
           Daily reporting including ETL process tasks (Power Query, SQL), analyses and visualization (Power BI, Tableau). Advanced ad hoc analyses - forecasts and exploratory analyses (R).     
+
+      - title:  Github page
+        icon: fab fa-github
+        url: https://github.com/KatarzynaSzmydki
 
 
   - title: Latest Power BI showcases # Title for the section
