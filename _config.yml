@@ -73,9 +73,9 @@ content:
         description: | # this will include new lines to allow paragraphs
           Daily reporting including ETL process tasks (Power Query, SQL), analyses and visualization (Power BI, Tableau). Advanced ad hoc analyses - forecasts and exploratory analyses (R).     
 
-      - title:  Github page
-        icon: fab fa-github
-        url: https://github.com/KatarzynaSzmydki
+  - title:  Github page
+    icon: fab fa-github
+    url: https://github.com/KatarzynaSzmydki
 
 
   - title: Latest Power BI showcases # Title for the section
