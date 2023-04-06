@@ -40,12 +40,18 @@ linkedin_username: katarzyna-szmydki-aa0b79b5
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Kasia. I'm a BI developer/Data analyst with 6+ years experience. Using data to support business is what I'm passionate about.
+  Dedicated and friendly BI developer/Data analyst with 6+ years experience. Currently, in a customer-facing role providing BI solutions to clients from various domains. 
+  Having professional experience in FMCG and technology companies I gained most important skill - ability to translate business requirements into BI solutions that make clients' day-to-day work easier. 
+  Keen to utilise my skills to create practical solutions with a heavy emphasis on great user experience.
 
   I'm most skilled in: 
   - Extracting, cleaning and preparing data (<mark>SQL</mark>, <mark>Python</mark>, <mark>PySpark</mark>),
   - Visualisations, reporting (<mark>Power BI</mark>),
   - Consolidating and explaining complex issues to business in easily digestable form. 
+  
+  Next in my technology bucket list:
+  - Microsoft Azure Synapse Analytics
+  - Databricks
 
 content:
   - title: Experience # Title for the section
