@@ -46,17 +46,24 @@ about_content: | # this will include new lines to allow paragraphs
 
   I'm most skilled in: 
   - Extracting, cleaning and preparing data (<mark>SQL</mark>, <mark>Python</mark>, <mark>PySpark</mark>),
-  - Visualisations, reporting (<mark>Power BI</mark>),
+  - Building reporting (<mark>Power BI</mark>) based on both on-prem data infrastructure and public cloud (*AWS*, *Azure*), 
   - Consolidating and explaining complex issues to business in easily digestable form. 
   
   Next in my technology bucket list:
-  - Microsoft Azure Synapse Analytics
   - Databricks
+  - Snowflake
 
 content:
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
+
+      - layout: left
+        title: PwC IT Services
+        sub_title: Senior BI Developer
+        caption: April 2023 - Present
+        description: | # this will include new lines to allow paragraphs
+          Creating reports with use of *Power BI* and public cloud (*Azure*), aligning reporting requirements with client.
 
       - layout: left
         title: StepStone Services
@@ -67,17 +74,11 @@ content:
 
       - layout: left
         title: Philip Morris International
-        sub_title: IT Analyst
-        caption: June 2021 - July 2022
-        description: | # this will include new lines to allow paragraphs
-          Service management, supporting and maintaining Business Intelligence tools, business analysis, cloud technologies.     
-
-      - layout: left
-        title: Philip Morris International
-        sub_title: BI Analyst
-        caption: Mar 2017 - June 2021
+        sub_title: BI/IT Analyst
+        caption: Mar 2017 - July 2022
         description: | # this will include new lines to allow paragraphs
           Daily reporting including ETL process tasks (Power Query, SQL), analyses and visualization (Power BI, Tableau). Advanced ad hoc analyses - forecasts and exploratory analyses (R).     
+          Service management, supporting and maintaining Business Intelligence tools, business analysis, cloud technologies.     
 
 
   - title: Latest Power BI showcases # Title for the section
