@@ -81,7 +81,7 @@ content:
           Service management, supporting and maintaining Business Intelligence tools, business analysis, cloud technologies.     
 
 
-  - title: Latest Power BI showcases # Title for the section
+  - title: Latest Power BI showcases
     layout: list # Type of content section (list/text)
     content:
       - layout: left
