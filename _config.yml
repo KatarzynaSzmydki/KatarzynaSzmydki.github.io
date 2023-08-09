@@ -55,8 +55,8 @@ about_content: | # this will include new lines to allow paragraphs
 
 
   <a href="https://www.credly.com/badges/f3371305-d7a9-4b79-a84a-33a03e9dc5bb/public_url">Microsoft Certified: Power BI Data Analyst Associate</a>
-  [alt text](/images/PBI_badge.png "Microsoft Certified: Power BI Data Analyst Associate" width: 10px )
-  [alt text](/images/lakehouse-fundamentals.png "Databricks Lakehouse Fundamentals")
+  ![alt text](/images/PBI_badge.png "Microsoft Certified: Power BI Data Analyst Associate" width: 10px )
+  ![alt text](/images/lakehouse-fundamentals.png "Databricks Lakehouse Fundamentals")
 #  https://credentials.databricks.com/5e313a22-3a5f-4ed7-9823-0636370ca3fd
 
 
