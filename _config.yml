@@ -53,6 +53,11 @@ about_content: | # this will include new lines to allow paragraphs
   - Databricks
   - Snowflake
   
+  
+  Certificates
+  - <a href="google.com">Links</a>
+  - Images ![alt text](/images/landscape-trees.jpg "Trees")
+
 
 content:
   - title: Experience # Title for the section
@@ -115,12 +120,6 @@ content:
 #        link_text: Go to the app
 
 
-
-  - title: Certificates
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-       icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
-       url: Link url (eg. https://google.com)
 
 # Footer
 footer_show_references: true
