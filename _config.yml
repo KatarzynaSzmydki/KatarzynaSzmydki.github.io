@@ -95,7 +95,7 @@ content:
       - layout: left
         title: Spotify Tracks Analysis report
         description: |
-          Report analyses Spotify tracks data. It uses Azure Databrics fro data transformation and analysis. PBI report connects to relevant tables in Azure Synapse Analytics. Report contains some cool features such as field parameters, new KPI cards, SVG charts, dynamic formatting, page and bookmark navigation buttons.
+          Report analyses Spotify tracks data. It uses Azure Databrics for data transformation and analysis and Azure Data Lake Storage Gen2 for storing raw and processed data. PBI report connects to relevant tables in Azure Synapse Analytics. Report contains some cool features such as field parameters, new KPI cards, SVG charts, dynamic formatting, page and bookmark navigation buttons.
         link: https://app.powerbi.com/view?r=eyJrIjoiZTQ3MWEyYmEtZmYxNi00MTQ5LTlkOTktNmFhZGU4MmY1YjZjIiwidCI6IjI5NDYwNjgyLTUwNmQtNDcxNy05NmE3LTUxNDg1OGRjMjIyZCIsImMiOjh9
         link_text: Go to the report
 
