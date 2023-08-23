@@ -79,7 +79,7 @@ content:
         sub_title: Data Analyst
         caption: July 2022 - March 2023
         description: | # this will include new lines to allow paragraphs
-          Creating reports (*Power BI*), conducting exploratory and explanatory analyses (*SQL/Python/PySpark*). Extracting and transforming data from diverse sources (*Redshift DW/S3/Apache Hive/API*). Daily cooperation with developers, PO, business.
+          Creating reports (*Power BI*), conducting exploratory and explanatory analyses (*SQL/Python/PySpark*). Extracting and transforming data from diverse sources (*Redshift DW/S3/Apache Hive/API*). Daily cooperation with developers, PO, business. 
 
       - layout: left
         title: Philip Morris International
