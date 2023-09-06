@@ -93,6 +93,13 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
+        title: Budget Management Tool
+        description: |
+          Tool for managing monthly expenses and budgets. It uses Power Apps application embedded within Power BI report. Users can report expenses and define budgets and at the same time they have access to the full expense history.
+        link: https://app.powerbi.com/view?r=eyJrIjoiMzM5YWViOWMtMzNhOS00ZGU3LWE0NmUtZjZjMTY3YzM4ODM1IiwidCI6IjI5NDYwNjgyLTUwNmQtNDcxNy05NmE3LTUxNDg1OGRjMjIyZCIsImMiOjh9
+        link_text: Go to the report
+
+      - layout: left
         title: Spotify Tracks Analysis report
         description: |
           Report analyses Spotify tracks data. It uses Azure Databrics for data transformation and analysis and Azure Data Lake Storage Gen2 for storing raw and processed data. PBI report connects to relevant tables in Azure Synapse Analytics. Report contains some cool features such as field parameters, new KPI cards, SVG charts, dynamic formatting, page and bookmark navigation buttons.
