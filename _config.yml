@@ -95,7 +95,7 @@ content:
       - layout: left
         title: Budget Management Tool
         description: |
-          Tool for managing monthly expenses and budgets. It uses Power Apps application embedded within Power BI report. Users can report expenses, define budgets and analyse full expense history. Key report features: dynamic expenses histogram, bookmark tabs.
+          Tool for managing monthly expenses and budgets. It uses Power Apps application embedded within Power BI report. Users can report expenses, define budgets and analyse full expense history. Key report features: expense histogram with dynamic bin sizes, bookmark tabs.
         link: https://app.powerbi.com/view?r=eyJrIjoiMzM5YWViOWMtMzNhOS00ZGU3LWE0NmUtZjZjMTY3YzM4ODM1IiwidCI6IjI5NDYwNjgyLTUwNmQtNDcxNy05NmE3LTUxNDg1OGRjMjIyZCIsImMiOjh9
         link_text: Go to the report
 
