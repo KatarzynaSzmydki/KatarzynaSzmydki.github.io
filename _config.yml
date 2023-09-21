@@ -54,6 +54,9 @@ about_content: | # this will include new lines to allow paragraphs
   - Snowflake
 
 
+
+  <a href="google.com">CV</a> 
+
 #  <a href="https://www.credly.com/badges/f3371305-d7a9-4b79-a84a-33a03e9dc5bb/public_url"> </a>
 #  ![alt text](/images/PBI_badge.png width="200" height="121" alt="Microsoft Certified: Power BI Data Analyst Associate")
 #  <a href="https://credentials.databricks.com/5e313a22-3a5f-4ed7-9823-0636370ca3fd"> </a>
@@ -127,14 +130,6 @@ content:
 #        link: https://app.powerbi.com/view?r=eyJrIjoiOWFiODc5NDYtMDAxMS00OGU5LWJjZmYtOTZiYTlkMzA5ZTQyIiwidCI6IjI5NDYwNjgyLTUwNmQtNDcxNy05NmE3LTUxNDg1OGRjMjIyZCIsImMiOjh9
 #        link_text: Go to the report
 
-
-#  - title: Kaggle projects # Title for the section
-#    layout: list # Type of content section (list/text)
-#    content:
-#      - layout: left
-#        title: Sales dashboard
-#        link: https://app.powerbi.com/view?r=eyJrIjoiMjkyNDQ5MjgtNzU1OS00NDMyLWIyY2ItMjA4NTllOTY0NmNjIiwidCI6IjI5NDYwNjgyLTUwNmQtNDcxNy05NmE3LTUxNDg1OGRjMjIyZCIsImMiOjh9&pageName=ReportSection
-#        link_text: Go to the app
 
 
 
