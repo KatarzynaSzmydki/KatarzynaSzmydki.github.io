@@ -55,7 +55,7 @@ about_content: | # this will include new lines to allow paragraphs
 
 
 
-  ![alt text](/images/cv.png width="200" height="121") Get my current CV under following <a href="/images/Katarzyna_Szmydki_CV.pdf">link</a> .
+  ![alt text](/images/cv.png) Get my current CV under following <a href="/images/Katarzyna_Szmydki_CV.pdf">link</a> .
 
 #  <a href="https://www.credly.com/badges/f3371305-d7a9-4b79-a84a-33a03e9dc5bb/public_url"> </a>
 #  ![alt text](/images/PBI_badge.png width="200" height="121" alt="Microsoft Certified: Power BI Data Analyst Associate")
