@@ -100,10 +100,13 @@ content:
       - layout: left
         title: Loan Request Verification Tool
         description: |
-          <mark>In progress!</mark> |
+          <mark>In progress!</mark> 
+          
           Project implements scoring model within Flask application. User inputs basic financial information regarding loan request in a Flask form. Request is scored using pretrained logistic model on saving to database (Azure SQL database) and flag informing whether user will or will not be granted the loan is assigned to the record.
-          Application enables updating loan data or deleting records altogether. Each edit action triggers loan request scoring recalculation. |
-          There's PBI report embedded in the application that connects to the database and displays summary statistics for processed requests. |
+          Application enables updating loan data or deleting records altogether. Each edit action triggers loan request scoring recalculation. 
+          
+          There's PBI report embedded in the application that connects to the database and displays summary statistics for processed requests. 
+          
           Key project features: Python Flask application, Azure SQL Database, logistic model, PBI report
         link: https://github.com/KatarzynaSzmydki/Loan_Request_Verification/tree/master
         link_text: Go to Project GitHub repository
@@ -111,7 +114,8 @@ content:
       - layout: left
         title: Budget Management Tool
         description: |
-          Tool for managing monthly expenses and budgets. It uses Power Apps application embedded within Power BI report. Users can report expenses, define budgets and analyse full expense history. |
+          Tool for managing monthly expenses and budgets. It uses Power Apps application embedded within Power BI report. Users can report expenses, define budgets and analyse full expense history. 
+          
           Key report features: expense histogram with dynamic bin sizes, bookmark tabs
         link: https://app.powerbi.com/view?r=eyJrIjoiMzM5YWViOWMtMzNhOS00ZGU3LWE0NmUtZjZjMTY3YzM4ODM1IiwidCI6IjI5NDYwNjgyLTUwNmQtNDcxNy05NmE3LTUxNDg1OGRjMjIyZCIsImMiOjh9
         link_text: Go to the report
@@ -119,7 +123,8 @@ content:
       - layout: left
         title: Spotify Tracks Analysis report
         description: |
-          Report analyses Spotify tracks data. It uses Azure Databrics for data transformation and analysis and Azure Data Lake Storage Gen2 for storing raw and processed data. PBI report connects to relevant tables in Azure Synapse Analytics. |
+          Report analyses Spotify tracks data. It uses Azure Databrics for data transformation and analysis and Azure Data Lake Storage Gen2 for storing raw and processed data. PBI report connects to relevant tables in Azure Synapse Analytics. 
+          
           Key report features: field parameters, new KPI cards, SVG charts, dynamic formatting, page and bookmark navigation buttons
         link: https://app.powerbi.com/view?r=eyJrIjoiZTQ3MWEyYmEtZmYxNi00MTQ5LTlkOTktNmFhZGU4MmY1YjZjIiwidCI6IjI5NDYwNjgyLTUwNmQtNDcxNy05NmE3LTUxNDg1OGRjMjIyZCIsImMiOjh9
         link_text: Go to the report
