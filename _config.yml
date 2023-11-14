@@ -46,11 +46,11 @@ about_content: | # this will include new lines to allow paragraphs
 
   I'm most skilled in: 
   - Extracting, cleaning and preparing data (<mark>SQL</mark>, <mark>Python</mark>, <mark>PySpark</mark>),
-  - Building reporting (<mark>Power BI</mark>) based on both on-prem data infrastructure and public cloud (*AWS*, *Azure*), 
+  - Building reporting (<mark>Power BI</mark>) based on both on-prem data infrastructure and public cloud (*MS Azure*, *AWS*), 
   - Consolidating and explaining complex issues to business in easily digestable form. 
   
   Next in my technology bucket list:
-  - Databricks
+  - MS Fabric
   - Snowflake
 
 
@@ -77,7 +77,7 @@ content:
         sub_title: Senior BI Developer
         caption: April 2023 - Present
         description: | # this will include new lines to allow paragraphs
-          Developing reports (*Power BI*) and cloud-based (*Azure*) data solutions for clients from various domains.
+          Developing reports (*Power BI*) and cloud-based (*MS Azure*) data solutions for clients from various domains.
 
       - layout: left
         title: StepStone Services
@@ -100,9 +100,10 @@ content:
       - layout: left
         title: Loan Request Verification Tool
         description: |
-          (<mark>In progress!</mark>)
-          Project implements scoring model within Flask application. User inputs basic financial information regarding loan request in a Flask form. Request is scored using pretrained logistic model on saving to database (Azure SQL database) and flag informing whether use will or will not be granted the loan is assigned.
-          Application enables updating loan data or deleting records altogether. Each edit action triggers loan request scoring recalculation. There's PBI report embedded in the application that connects to the database and displays summary statistics for processed requests. 
+          <mark>In progress!</mark> |
+          Project implements scoring model within Flask application. User inputs basic financial information regarding loan request in a Flask form. Request is scored using pretrained logistic model on saving to database (Azure SQL database) and flag informing whether user will or will not be granted the loan is assigned to the record.
+          Application enables updating loan data or deleting records altogether. Each edit action triggers loan request scoring recalculation. |
+          There's PBI report embedded in the application that connects to the database and displays summary statistics for processed requests. |
           Key project features: Python Flask application, Azure SQL Database, logistic model, PBI report
         link: https://github.com/KatarzynaSzmydki/Loan_Request_Verification/tree/master
         link_text: Go to Project GitHub repository
@@ -110,14 +111,16 @@ content:
       - layout: left
         title: Budget Management Tool
         description: |
-          Tool for managing monthly expenses and budgets. It uses Power Apps application embedded within Power BI report. Users can report expenses, define budgets and analyse full expense history. Key report features: expense histogram with dynamic bin sizes, bookmark tabs.
+          Tool for managing monthly expenses and budgets. It uses Power Apps application embedded within Power BI report. Users can report expenses, define budgets and analyse full expense history. |
+          Key report features: expense histogram with dynamic bin sizes, bookmark tabs
         link: https://app.powerbi.com/view?r=eyJrIjoiMzM5YWViOWMtMzNhOS00ZGU3LWE0NmUtZjZjMTY3YzM4ODM1IiwidCI6IjI5NDYwNjgyLTUwNmQtNDcxNy05NmE3LTUxNDg1OGRjMjIyZCIsImMiOjh9
         link_text: Go to the report
 
       - layout: left
         title: Spotify Tracks Analysis report
         description: |
-          Report analyses Spotify tracks data. It uses Azure Databrics for data transformation and analysis and Azure Data Lake Storage Gen2 for storing raw and processed data. PBI report connects to relevant tables in Azure Synapse Analytics. Report contains some cool features such as field parameters, new KPI cards, SVG charts, dynamic formatting, page and bookmark navigation buttons.
+          Report analyses Spotify tracks data. It uses Azure Databrics for data transformation and analysis and Azure Data Lake Storage Gen2 for storing raw and processed data. PBI report connects to relevant tables in Azure Synapse Analytics. |
+          Key report features: field parameters, new KPI cards, SVG charts, dynamic formatting, page and bookmark navigation buttons
         link: https://app.powerbi.com/view?r=eyJrIjoiZTQ3MWEyYmEtZmYxNi00MTQ5LTlkOTktNmFhZGU4MmY1YjZjIiwidCI6IjI5NDYwNjgyLTUwNmQtNDcxNy05NmE3LTUxNDg1OGRjMjIyZCIsImMiOjh9
         link_text: Go to the report
 
@@ -134,13 +137,6 @@ content:
           Report analysing sales performance for an alcohol company. Includes performance metrics tracked over time and across categories and brands (dummy data).
         link: https://app.powerbi.com/view?r=eyJrIjoiMmFkYzdjODQtYmY1Ny00MjQzLThiM2ItMWNlODE5YWVjNzM0IiwidCI6IjI5NDYwNjgyLTUwNmQtNDcxNy05NmE3LTUxNDg1OGRjMjIyZCIsImMiOjh9
         link_text: Go to the report
-#
-#      - layout: left
-#        title: Airbnb short-term rental housing report
-#        description: |
-#          Based on publicly available Beijing Airbnb dataset published on April 17, 2019. Report presents basic statistics and findings from used dataset (PBI).
-#        link: https://app.powerbi.com/view?r=eyJrIjoiOWFiODc5NDYtMDAxMS00OGU5LWJjZmYtOTZiYTlkMzA5ZTQyIiwidCI6IjI5NDYwNjgyLTUwNmQtNDcxNy05NmE3LTUxNDg1OGRjMjIyZCIsImMiOjh9
-#        link_text: Go to the report
 
 
 
