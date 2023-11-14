@@ -83,20 +83,30 @@ content:
         title: StepStone Services
         sub_title: Data Analyst
         caption: July 2022 - March 2023
-        description: | # this will include new lines to allow paragraphs
+        description: | 
           Creating reports (*Power BI*), conducting exploratory and explanatory analyses (*SQL/Python/PySpark*). Extracting and transforming data from diverse sources (*Redshift DW/S3/Apache Hive/API*). Daily cooperation with developers, PO, business. 
 
       - layout: left
         title: Philip Morris International
         sub_title: BI/IT Developer
         caption: Mar 2017 - July 2022
-        description: | # this will include new lines to allow paragraphs
+        description: | 
           Service management, supporting and maintaining Business Intelligence tools, business analysis, cloud technologies.     
 
 
-  - title: Latest showcases
-    layout: list # Type of content section (list/text)
+  - title: Latest projects
+    layout: list
     content:
+      - layout: left
+        title: Loan Request Verification Tool
+        description: |
+          (<mark>In progress!</mark>)
+          Project implements scoring model within Flask application. User inputs basic financial information regarding loan request in a Flask form. Request is scored using pretrained logistic model on saving to database (Azure SQL database) and flag informing whether use will or will not be granted the loan is assigned.
+          Application enables updating loan data or deleting records altogether. Each edit action triggers loan request scoring recalculation. There's PBI report embedded in the application that connects to the database and displays summary statistics for processed requests. 
+          Key report features: Python Flask application, Azure SQL Database, logistic model, PBI report
+        link: https://github.com/KatarzynaSzmydki/Loan_Request_Verification/tree/master
+        link_text: Go to Project GitHub repository
+
       - layout: left
         title: Budget Management Tool
         description: |
