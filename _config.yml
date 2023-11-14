@@ -103,7 +103,7 @@ content:
           (<mark>In progress!</mark>)
           Project implements scoring model within Flask application. User inputs basic financial information regarding loan request in a Flask form. Request is scored using pretrained logistic model on saving to database (Azure SQL database) and flag informing whether use will or will not be granted the loan is assigned.
           Application enables updating loan data or deleting records altogether. Each edit action triggers loan request scoring recalculation. There's PBI report embedded in the application that connects to the database and displays summary statistics for processed requests. 
-          Key report features: Python Flask application, Azure SQL Database, logistic model, PBI report
+          Key project features: Python Flask application, Azure SQL Database, logistic model, PBI report
         link: https://github.com/KatarzynaSzmydki/Loan_Request_Verification/tree/master
         link_text: Go to Project GitHub repository
 
