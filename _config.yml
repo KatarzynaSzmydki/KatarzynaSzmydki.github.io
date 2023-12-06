@@ -109,7 +109,7 @@ content:
           
           Key project features: Python Flask application, Azure SQL Database, ML model, PBI report
           
-          Link to working solution: <a href="https://loanapplicationverification.azurewebsites.net/"> </a>
+        Link to working solution: https://loanapplicationverification.azurewebsites.net/
         link: https://github.com/KatarzynaSzmydki/Loan_Request_Verification/tree/master
         link_text: Go to Project GitHub repository
 
