@@ -56,7 +56,7 @@ about_content: | # this will include new lines to allow paragraphs
 
 
 
-  ![alt text](/images/cv.png) Get my current CV under following <a href="/images/Katarzyna_Szmydki_CV.pdf">link</a> .
+  ![alt text](/images/cv.png) View my current CV under following <a href="/images/Katarzyna_Szmydki_CV.pdf">link</a> .
   
 
 #  <a href="https://www.credly.com/badges/f3371305-d7a9-4b79-a84a-33a03e9dc5bb/public_url"> </a>
@@ -100,14 +100,16 @@ content:
       - layout: left
         title: Loan Request Verification Tool
         description: |
-          <mark>In progress!</mark> 
+          <mark>New!</mark> 
           
-          Project implements scoring model within Flask application. User inputs basic financial information regarding loan request in a Flask form. Request is scored using pretrained logistic model on saving to database (Azure SQL database) and flag informing whether user will or will not be granted the loan is assigned to the record.
+          Project implements scoring model within Flask application. User inputs basic financial information regarding loan request in a Flask form. Request is scored using pretrained ML model on saving to database (Azure SQL database) and flag informing whether user will or will not be granted the loan is assigned to the record.
           Application enables updating loan data or deleting records altogether. Each edit action triggers loan request scoring recalculation. 
           
           Summary statistics for processed requests are presented within PBI report embedded in the application. 
           
-          Key project features: Python Flask application, Azure SQL Database, logistic model, PBI report
+          Key project features: Python Flask application, Azure SQL Database, ML model, PBI report
+          
+          Link to working solution: https://loanapplicationverification.azurewebsites.net/
         link: https://github.com/KatarzynaSzmydki/Loan_Request_Verification/tree/master
         link_text: Go to Project GitHub repository
 
