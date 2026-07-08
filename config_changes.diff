@@ -1,0 +1,74 @@
+diff --git a/_config.yml b/_config.yml
+index 9b10eaa..b2884a1 100644
+--- a/_config.yml
++++ b/_config.yml
+@@ -40,16 +40,19 @@ linkedin_username: katarzyna-szmydki-aa0b79b5
+ # about_title: About Me
+ about_profile_image: images/profile.jpg
+ about_content: | # this will include new lines to allow paragraphs
+-  Dedicated and friendly BI developer/Data analyst with 6+ years experience. Currently, in a customer-facing role providing BI solutions to clients from various domains. 
+-  Having professional experience in FMCG and technology companies I gained most important skill - ability to translate business requirements into BI solutions that make clients' day-to-day work easier. 
+-  Keen to utilise my skills to create practical solutions with a heavy emphasis on great user experience.
++  Data Analyst / BI Developer with 7+ years of experience turning messy, disconnected data into decisions that matter — currently building data assets and analytics solutions at GSK, with a track record spanning PwC, StepStone and Philip Morris International.
++  Across FMCG, tech and pharma I've translated ambiguous business requirements into robust data platforms and reporting, always with an eye on the person who actually has to use the output.
+ 
+   I'm most skilled in: 
+-  - Extracting, cleaning and preparing data with use of <mark>SQL</mark>, <mark>Python</mark>, <mark>PySpark</mark>,
+-  - Building reporting in <mark>Power BI</mark> based on both on-prem data infrastructure and public cloud (*MS Azure*, *AWS*), 
+-  - Consolidating and explaining complex issues to business in easily digestable form. 
+-  
++  - Modelling, extracting and transforming data with <mark>SQL</mark>, <mark>Python</mark> and <mark>PySpark</mark>,
++  - Building and operating data platforms on <mark>Azure Databricks</mark> and the wider <mark>Azure Data Platform</mark> (ADF, DevOps CI/CD),
++  - Designing reporting and analytics in <mark>Power BI</mark> that stakeholders actually trust and use,
++  - Bridging the gap between data owners, product managers and business stakeholders. 
++
++  Lately I've been increasingly drawn to applied AI — using LLMs and agentic tools to prototype faster ("vibe coding"), automate parts of the analytics workflow, and explore where GenAI and BI genuinely meet.
++
+   Next in my technology bucket list:
++  - GenAI / LLM-powered analytics and agentic workflows (Azure AI Foundry)
+   - MS Fabric
+   - Snowflake
+ 
+@@ -72,12 +75,19 @@ content:
+     layout: list # Type of content section (list/text)
+     content:
+ 
++      - layout: left
++        title: GSK
++        sub_title: Data Analyst
++        caption: December 2024 - Present
++        description: | # this will include new lines to allow paragraphs
++          Collaborating with data owners and product managers to understand objectives and requirements for data assets. Building and maintaining data assets (*Azure Databricks*, *SQL*, *Python*) and reports (*Power BI*). Familiarity with master data management tools (*SAP PLM*).
++
+       - layout: left
+         title: PwC IT Services
+         sub_title: Senior BI Developer
+-        caption: April 2023 - Present
++        caption: April 2023 - November 2024
+         description: | # this will include new lines to allow paragraphs
+-          Developing reports (*Power BI*) and cloud-based (*MS Azure*) data solutions for clients from various domains.
++          Delivered analytical and data processing solutions for global markets (*Power BI*, *Azure Data Platform* - ADF, *Azure Databricks*, *Azure DevOps*). Optimization activities: identifying bottlenecks and best practice violations in data modelling; building transformation logic in *SQL/PySpark*. Identifying client needs and translating into technical solutions.
+ 
+       - layout: left
+         title: StepStone Services
+@@ -88,10 +98,17 @@ content:
+ 
+       - layout: left
+         title: Philip Morris International
+-        sub_title: BI/IT Developer
+-        caption: Mar 2017 - July 2022
++        sub_title: IT Analyst
++        caption: June 2021 - July 2022
++        description: | 
++          Service management, managing cross-cultural teams for migration projects from on-prem to cloud, business analysis.
++
++      - layout: left
++        title: Philip Morris International
++        sub_title: BI Analyst
++        caption: March 2017 - June 2021
+         description: | 
+-          Service management, supporting and maintaining Business Intelligence tools, business analysis, cloud technologies.     
++          Developing *Power BI* reports (*Power BI*, *MS SQL Server*), advanced analytics (forecasting).
+ 
+ 
+   - title: Latest projects
