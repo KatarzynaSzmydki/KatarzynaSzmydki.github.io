@@ -129,7 +129,6 @@ content:
       - layout: left
         title: Loan Request Verification Tool
         description: |
-          <mark>New!</mark>
 
           Project implements scoring model within Flask application. User inputs basic financial information regarding loan request in a Flask form. Request is scored using pretrained ML model on saving to database (Azure SQL database) and flag informing whether user will or will not be granted the loan is assigned to the record.
           Application enables updating loan data or deleting records altogether. Each edit action triggers loan request scoring recalculation. 
