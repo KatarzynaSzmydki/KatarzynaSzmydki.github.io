@@ -52,8 +52,8 @@ about_content: | # this will include new lines to allow paragraphs
   Lately I've been increasingly drawn to applied AI — using LLMs and agentic tools to prototype faster ("vibe coding"), automate parts of the analytics workflow, and explore where GenAI and BI genuinely meet.
 
   Next in my technology bucket list:
-  - GenAI / LLM-powered analytics and agentic workflows (Azure AI Foundry)
-  - MS Fabric
+  - GenAI / LLM-powered analytics and agentic workflows
+  - dbt for data transformation and modelling
   - Snowflake
 
 
@@ -129,7 +129,6 @@ content:
       - layout: left
         title: Warsaw Air Quality BI Pipeline
         description: |
-          <mark>New!</mark>
 
           End-to-end BI pipeline for Warsaw air quality data. Python ingestion pulls station, sensor and measurement readings from the public GIOS API; dbt transforms the raw layer into staging and mart models on DuckDB, including an incremental history model that accumulates readings across ingestion runs (GIOS only ever exposes a rolling window). A Power BI dashboard on top tracks current air quality status and parameter trends against EU limits.
 
@@ -177,14 +176,6 @@ content:
           Report analysing store sales performance across different countries/cities and store formats (dummy data).
         link: https://app.powerbi.com/view?r=eyJrIjoiNzMwOTBkMDctNTA5ZC00OTAwLWIyNTQtZGIyZTNmMzdhNTc4IiwidCI6IjI5NDYwNjgyLTUwNmQtNDcxNy05NmE3LTUxNDg1OGRjMjIyZCIsImMiOjh9
         link_text: Go to the report
-
-      - layout: left
-        title: Product sales report
-        description: |
-          Report analysing sales performance for an alcohol company. Includes performance metrics tracked over time and across categories and brands (dummy data).
-        link: https://app.powerbi.com/view?r=eyJrIjoiMmFkYzdjODQtYmY1Ny00MjQzLThiM2ItMWNlODE5YWVjNzM0IiwidCI6IjI5NDYwNjgyLTUwNmQtNDcxNy05NmE3LTUxNDg1OGRjMjIyZCIsImMiOjh9
-        link_text: Go to the report
-
 
 
 
