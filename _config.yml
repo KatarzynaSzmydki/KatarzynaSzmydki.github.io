@@ -115,6 +115,18 @@ content:
     layout: list
     content:
       - layout: left
+        title: Cryptocurrency Market Analytics Pipeline
+        description: |
+          <mark>New! (In-Progress)</mark>
+
+          End-to-end BI pipeline for cryptocurrency markets. Python extracts daily market data for a configurable coin universe from the CoinGecko API; dbt transforms it into staging and mart models on DuckDB, including a data-quality monitoring model. Price forecasting and direction-prediction ML models are trained on the resulting history, and results are exported to Parquet for a Power BI report covering price trends alongside forecasts and predictions.
+
+          Key project features: Python ETL from CoinGecko API, dbt on DuckDB, ML price forecasting and direction prediction, Power BI report, PowerShell pipeline orchestration
+
+        link: https://github.com/KatarzynaSzmydki/coin-report
+        link_text: Go to Project GitHub repository
+
+      - layout: left
         title: Warsaw Air Quality BI Pipeline
         description: |
           <mark>New!</mark>
