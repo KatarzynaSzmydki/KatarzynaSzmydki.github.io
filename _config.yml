@@ -123,9 +123,12 @@ content:
 
           Key project features: Python pipeline, Google News + Yahoo Finance data, Claude-generated briefs, Streamlit dashboard, automated daily refresh
 
-        Link to working solution: https://appuct-launch-newsfeed-ikdapki88wvs4vnnhwezyx.streamlit.app/
         link: https://github.com/KatarzynaSzmydki/product-launch-newsfeed
         link_text: Go to Project GitHub repository
+        additional_links:
+          - title: Working solution
+            icon: fas fa-external-link-alt
+            url: https://appuct-launch-newsfeed-ikdapki88wvs4vnnhwezyx.streamlit.app/
 
       - layout: left
         title: Cryptocurrency Market Analytics Pipeline
@@ -161,9 +164,12 @@ content:
 
           Key project features: Python Flask application, Azure SQL Database, ML model, PBI report
 
-        Link to working solution: https://loanapplicationverification.azurewebsites.net/
         link: https://github.com/KatarzynaSzmydki/Loan_Request_Verification/tree/master
         link_text: Go to Project GitHub repository
+        additional_links:
+          - title: Working solution
+            icon: fas fa-external-link-alt
+            url: https://loanapplicationverification.azurewebsites.net/
 
       - layout: left
         title: Budget Management Tool
