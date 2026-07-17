@@ -49,7 +49,7 @@ about_content: | # this will include new lines to allow paragraphs
   - Designing reporting and analytics in <mark>Power BI</mark> that stakeholders actually trust and use,
   - Bridging the gap between data owners, product managers and business stakeholders.
 
-  Lately I've been increasingly drawn to applied AI — using LLMs and agentic tools to prototype faster ("vibe coding"), automate parts of the analytics workflow, and explore where GenAI and BI genuinely meet.
+  Lately I've been increasingly drawn to applied AI — using LLMs and agentic tools to prototype faster, automate parts of the analytics workflow, and explore where GenAI and BI genuinely meet.
 
   Next in my technology bucket list:
   - GenAI / LLM-powered analytics and agentic workflows
@@ -71,39 +71,6 @@ about_content: | # this will include new lines to allow paragraphs
 
 
 content:
-  - title: Experience # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-
-      - layout: left
-        title: GSK
-        sub_title: Data Analyst
-        caption: December 2024 - Present
-        description: |
-          Collaborating with data owners and product managers to understand objectives and requirements for data assets. Building and maintaining data assets (*Azure Databricks*, *SQL*, *Python*) and reports (*Power BI*). Familiarity with master data management tools (*SAP PLM*).
-
-      - layout: left
-        title: PwC IT Services
-        sub_title: Senior BI Developer
-        caption: April 2023 - November 2024
-        description: |
-          Delivered analytical and data processing solutions for global markets (*Power BI*, *Azure Data Platform* - ADF, *Azure Databricks*, *Azure DevOps*). Optimization activities: identifying bottlenecks and best practice violations in data modelling; building transformation logic in *SQL/PySpark*. Identifying client needs and translating into technical solutions.
-
-      - layout: left
-        title: StepStone Services
-        sub_title: Data Analyst
-        caption: July 2022 - March 2023
-        description: |
-          Creating reports (*Power BI*), conducting exploratory and explanatory analyses (*SQL/Python/PySpark*). Extracting and transforming data from diverse sources (*Redshift DW/S3/Apache Hive/API*). Daily cooperation with developers, PO, business.
-
-      - layout: left
-        title: Philip Morris International
-        sub_title: BI Analyst, IT Analyst
-        caption: March 2017 - July 2022
-        description: |
-          BI Analyst - Developing *Power BI* reports (*Power BI*, *MS SQL Server*), advanced analytics (forecasting).
-          IT Analyst - Service management, managing cross-cultural teams for migration projects from on-prem to cloud, business analysis.
-
   - title: Latest projects
     layout: list
     content:
@@ -188,6 +155,40 @@ content:
           Report analysing store sales performance across different countries/cities and store formats (dummy data).
         link: https://app.powerbi.com/view?r=eyJrIjoiNzMwOTBkMDctNTA5ZC00OTAwLWIyNTQtZGIyZTNmMzdhNTc4IiwidCI6IjI5NDYwNjgyLTUwNmQtNDcxNy05NmE3LTUxNDg1OGRjMjIyZCIsImMiOjh9
         link_text: Go to the report
+
+
+  - title: Experience # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+
+      - layout: left
+        title: GSK
+        sub_title: Data Analyst
+        caption: December 2024 - Present
+        description: |
+          Collaborating with data owners and product managers to understand objectives and requirements for data assets. Building and maintaining data assets (*Azure Databricks*, *SQL*, *Python*) and reports (*Power BI*). Familiarity with master data management tools (*SAP PLM*).
+
+      - layout: left
+        title: PwC IT Services
+        sub_title: Senior BI Developer
+        caption: April 2023 - November 2024
+        description: |
+          Delivered analytical and data processing solutions for global markets (*Power BI*, *Azure Data Platform* - ADF, *Azure Databricks*, *Azure DevOps*). Optimization activities: identifying bottlenecks and best practice violations in data modelling; building transformation logic in *SQL/PySpark*. Identifying client needs and translating into technical solutions.
+
+      - layout: left
+        title: StepStone Services
+        sub_title: Data Analyst
+        caption: July 2022 - March 2023
+        description: |
+          Creating reports (*Power BI*), conducting exploratory and explanatory analyses (*SQL/Python/PySpark*). Extracting and transforming data from diverse sources (*Redshift DW/S3/Apache Hive/API*). Daily cooperation with developers, PO, business.
+
+      - layout: left
+        title: Philip Morris International
+        sub_title: BI Analyst, IT Analyst
+        caption: March 2017 - July 2022
+        description: |
+          BI Analyst - Developing *Power BI* reports (*Power BI*, *MS SQL Server*), advanced analytics (forecasting).
+          IT Analyst - Service management, managing cross-cultural teams for migration projects from on-prem to cloud, business analysis.
 
 
 
