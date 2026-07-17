@@ -79,14 +79,14 @@ content:
         title: GSK
         sub_title: Data Analyst
         caption: December 2024 - Present
-        description: | # this will include new lines to allow paragraphs
+        description: |
           Collaborating with data owners and product managers to understand objectives and requirements for data assets. Building and maintaining data assets (*Azure Databricks*, *SQL*, *Python*) and reports (*Power BI*). Familiarity with master data management tools (*SAP PLM*).
 
       - layout: left
         title: PwC IT Services
         sub_title: Senior BI Developer
         caption: April 2023 - November 2024
-        description: | # this will include new lines to allow paragraphs
+        description: |
           Delivered analytical and data processing solutions for global markets (*Power BI*, *Azure Data Platform* - ADF, *Azure Databricks*, *Azure DevOps*). Optimization activities: identifying bottlenecks and best practice violations in data modelling; building transformation logic in *SQL/PySpark*. Identifying client needs and translating into technical solutions.
 
       - layout: left
@@ -98,18 +98,11 @@ content:
 
       - layout: left
         title: Philip Morris International
-        sub_title: IT Analyst
-        caption: June 2021 - July 2022
+        sub_title: BI Analyst, IT Analyst
+        caption: March 2017 - July 2022
         description: |
-          Service management, managing cross-cultural teams for migration projects from on-prem to cloud, business analysis.
-
-      - layout: left
-        title: Philip Morris International
-        sub_title: BI Analyst
-        caption: March 2017 - June 2021
-        description: |
-          Developing *Power BI* reports (*Power BI*, *MS SQL Server*), advanced analytics (forecasting).
-
+          BI Analyst - Developing *Power BI* reports (*Power BI*, *MS SQL Server*), advanced analytics (forecasting).
+          IT Analyst - Service management, managing cross-cultural teams for migration projects from on-prem to cloud, business analysis.
 
   - title: Latest projects
     layout: list
