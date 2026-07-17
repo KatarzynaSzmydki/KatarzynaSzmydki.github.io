@@ -93,7 +93,7 @@ content:
         additional_links:
           - title: Working solution
             icon: fas fa-external-link-alt
-            url: https://appuct-launch-newsfeed-ikdapki88wvs4vnnhwezyx.streamlit.app/
+            url: https://tech-launch-newsfeed.streamlit.app/
 
       - layout: left
         title: Cryptocurrency Market Analytics Pipeline
