@@ -14,7 +14,6 @@ darkmode: false
 
 # Social links
 
-email: kszmydki@gmail.com
 github_username:  KatarzynaSzmydki
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
@@ -25,6 +24,11 @@ linkedin_username: katarzyna-szmydki-aa0b79b5
 
 
 # Additional icon links
+
+additional_links:
+  - title: Email me
+    icon: fas fa-envelope
+    url: mailto:kszmydki@gmail.com
 
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
