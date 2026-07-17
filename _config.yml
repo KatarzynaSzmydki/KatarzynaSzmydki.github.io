@@ -105,8 +105,7 @@ content:
       - layout: left
         title: Warsaw Air Quality BI Pipeline
         description: |
-          Jul'26
-          End-to-end BI pipeline for Warsaw air quality data. Python ingestion pulls station, sensor and measurement readings from the public GIOS API; dbt transforms the raw layer into staging and mart models on DuckDB, including an incremental history model that accumulates readings across ingestion runs (GIOS only ever exposes a rolling window). A Power BI dashboard on top tracks current air quality status and parameter trends against EU limits.
+          (Jul'26) End-to-end BI pipeline for Warsaw air quality data. Python ingestion pulls station, sensor and measurement readings from the public GIOS API; dbt transforms the raw layer into staging and mart models on DuckDB, including an incremental history model that accumulates readings across ingestion runs (GIOS only ever exposes a rolling window). A Power BI dashboard on top tracks current air quality status and parameter trends against EU limits.
 
           Key project features: Python ingestion, dbt on DuckDB, incremental history model, Power BI dashboard, CI with lint/pytest/dbt build and test
 
@@ -116,8 +115,7 @@ content:
       - layout: left
         title: Loan Request Verification Tool
         description: |
-          Dec'23
-          Project implements scoring model within Flask application. User inputs basic financial information regarding loan request in a Flask form. Request is scored using pretrained ML model on saving to database (Azure SQL database) and flag informing whether user will or will not be granted the loan is assigned to the record.
+          (Dec'23) Project implements scoring model within Flask application. User inputs basic financial information regarding loan request in a Flask form. Request is scored using pretrained ML model on saving to database (Azure SQL database) and flag informing whether user will or will not be granted the loan is assigned to the record.
           Application enables updating loan data or deleting records altogether. Each edit action triggers loan request scoring recalculation.
 
           Summary statistics for processed requests are presented within PBI report embedded in the application.
@@ -134,8 +132,7 @@ content:
       - layout: left
         title: Budget Management Tool
         description: |
-          Dec'23
-          Tool for managing monthly expenses and budgets. It uses Power Apps application embedded within Power BI report. Users can report expenses, define budgets and analyse full expense history.
+          (Dec'23) Tool for managing monthly expenses and budgets. It uses Power Apps application embedded within Power BI report. Users can report expenses, define budgets and analyse full expense history.
 
           Key report features: expense histogram with dynamic bin sizes, bookmark tabs
         link: https://app.powerbi.com/view?r=eyJrIjoiMzM5YWViOWMtMzNhOS00ZGU3LWE0NmUtZjZjMTY3YzM4ODM1IiwidCI6IjI5NDYwNjgyLTUwNmQtNDcxNy05NmE3LTUxNDg1OGRjMjIyZCIsImMiOjh9
@@ -144,8 +141,7 @@ content:
       - layout: left
         title: Spotify Tracks Analysis report
         description: |
-          Dec'23
-          Report analyses Spotify tracks data. It uses Azure Databrics for data transformation and analysis and Azure Data Lake Storage Gen2 for storing raw and processed data. PBI report connects to relevant tables in Azure Synapse Analytics.
+          (Dec'23) Report analyses Spotify tracks data. It uses Azure Databrics for data transformation and analysis and Azure Data Lake Storage Gen2 for storing raw and processed data. PBI report connects to relevant tables in Azure Synapse Analytics.
 
           Key report features: field parameters, new KPI cards, SVG charts, dynamic formatting, page and bookmark navigation buttons
         link: https://app.powerbi.com/view?r=eyJrIjoiZTQ3MWEyYmEtZmYxNi00MTQ5LTlkOTktNmFhZGU4MmY1YjZjIiwidCI6IjI5NDYwNjgyLTUwNmQtNDcxNy05NmE3LTUxNDg1OGRjMjIyZCIsImMiOjh9
@@ -154,8 +150,7 @@ content:
       - layout: left
         title: Store performance report
         description: |
-          Dec'23
-          Report analysing store sales performance across different countries/cities and store formats (dummy data).
+          (Dec'23) Report analysing store sales performance across different countries/cities and store formats (dummy data).
         link: https://app.powerbi.com/view?r=eyJrIjoiNzMwOTBkMDctNTA5ZC00OTAwLWIyNTQtZGIyZTNmMzdhNTc4IiwidCI6IjI5NDYwNjgyLTUwNmQtNDcxNy05NmE3LTUxNDg1OGRjMjIyZCIsImMiOjh9
         link_text: Go to the report
 
